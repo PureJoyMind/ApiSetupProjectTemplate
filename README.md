@@ -2,6 +2,13 @@
 This is a web api project template which has EF Core, Swagger, Api Versioning, NLog, and signalR setup.
 
 ## How to Use
+***Note***: I have created and tested this template in `Visual Studio 2022 version 17.8`. It should work in version `>17.0`.
+
+* Download the Template: Visit the GitHub [Repository](https://github.com/PureJoyMind/ApiSetupProjectTemplate) of the template project.
+* Get the Template File: Download the template file from the Release section of the repository.
+* Copy the Template file to `C:\Users\{User}\Documents\Visual Studio 2022\Templates\ProjectTemplates`
+* Create A new Project and select the template from the list of templates. If you don't see the template search for it.
+   ![Create New Project in Visual Studio 2022](https://github.com/PureJoyMind/ApiSetupProjectTemplate/assets/27802665/e31f0c7a-11b8-4715-bfda-8fe890a6fb82)
 ### Creation
 Choose this Template when creating a new project in visual studio. The nuget packages are updated as needed up to 3/1/2024. 
 I have upgraded the packages which had vulnerabilities. 

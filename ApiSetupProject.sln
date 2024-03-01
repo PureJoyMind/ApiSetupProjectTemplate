@@ -8,16 +8,34 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug Without Auth|Any CPU = Debug Without Auth|Any CPU
+		Debug Without Auth|arm64 = Debug Without Auth|arm64
+		Debug Without Auth|x86 = Debug Without Auth|x86
 		Debug|Any CPU = Debug|Any CPU
+		Debug|arm64 = Debug|arm64
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|arm64 = Release|arm64
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3563884D-5312-4E35-A540-307FD7650269}.Debug Without Auth|Any CPU.ActiveCfg = Debug Without Auth|Any CPU
 		{3563884D-5312-4E35-A540-307FD7650269}.Debug Without Auth|Any CPU.Build.0 = Debug Without Auth|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug Without Auth|arm64.ActiveCfg = Debug Without Auth|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug Without Auth|arm64.Build.0 = Debug Without Auth|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug Without Auth|x86.ActiveCfg = Debug Without Auth|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug Without Auth|x86.Build.0 = Debug Without Auth|Any CPU
 		{3563884D-5312-4E35-A540-307FD7650269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3563884D-5312-4E35-A540-307FD7650269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug|arm64.ActiveCfg = Debug|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug|arm64.Build.0 = Debug|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Debug|x86.Build.0 = Debug|Any CPU
 		{3563884D-5312-4E35-A540-307FD7650269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3563884D-5312-4E35-A540-307FD7650269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Release|arm64.ActiveCfg = Release|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Release|arm64.Build.0 = Release|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Release|x86.ActiveCfg = Release|Any CPU
+		{3563884D-5312-4E35-A540-307FD7650269}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
